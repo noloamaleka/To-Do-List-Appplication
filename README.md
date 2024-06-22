@@ -1,2 +1,2 @@
 # To-Do-List-Appplication
-A react application that makes use of an API and fetches a list of Todos and indicates which todos have been completed and which have not been completed by displaying the completed Todos with a green border and the incomplete Todos in red.
+A React-based to-do list application that fetches data from an external API and displays it in a user-friendly interface. Each to-do item is represented as a card with a border indicating its completion status: green for completed tasks and red for incomplete ones. The project demonstrates proficiency in using React hooks, specifically useState and useEffect, for managing state and side effects.
